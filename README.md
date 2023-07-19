@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nelisa_dludla" target="blank"><img src="https://img.shields.io/twitter/follow/nelisa_dludla?logo=twitter&style=for-the-badge" alt="nelisa_dludla" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **HTML & CSS**
 
 - 📫 How to reach me **nelisa.dludla@outlook.com**
 
