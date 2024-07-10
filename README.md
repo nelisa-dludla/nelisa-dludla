@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelisa-dludla&label=Profile%20views&color=0e75b6&style=flat" alt="nelisa-dludla" /> </p>
 
-- 🔭 I’m currently working on [Dwelr](https://github.com/nelisa-dludla/Dwelr)
+- 🔭 I’m currently working on [Red Flag Social](https://github.com/nelisa-dludla/red-flag-social)
 
-- 🌱 I’m currently learning **Go and HTMX**
+- 🌱 I’m currently learning about **Data Engineering**
 
 - 📫 How to reach me **nelisa.dludla@outlook.com**
 
