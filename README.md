@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelisa-dludla&label=Profile%20views&color=0e75b6&style=flat" alt="nelisa-dludla" /> </p>
 
-- 🔭 I’m currently working on [Red Flag Social](https://github.com/nelisa-dludla/red-flag-social)
+- 🔭 I’m currently working on [Emoji Riddle](https://github.com/nelisa-dludla/emoji-riddle)
 
-- 🌱 I’m currently learning about **Data Engineering**
+- 🌱 I’m currently learning about the **MERN Stack**
 
 - 📫 How to reach me **nelisa.dludla@outlook.com**
 
