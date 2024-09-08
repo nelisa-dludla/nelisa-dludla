@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nelisa</h1>
-<h3 align="center">An aspiring Software Developer</h3>
+<h3 align="center">Aspiring Software & Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelisa-dludla&label=Profile%20views&color=0e75b6&style=flat" alt="nelisa-dludla" /> </p>
 
-- 🔭 I’m currently working on [Emoji Riddle](https://github.com/nelisa-dludla/emoji-riddle)
+- 🔭 I’m currently working on [Roam](https://github.com/nelisa-dludla/roam-trip-planner)
 
 - 🌱 I’m currently learning about the **MERN Stack**
 
